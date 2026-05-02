@@ -36,6 +36,4 @@ Feel free to check my projects by clicking the links.
 
 ---
 
-[![](https://komarev.com/ghpvc/?username=DiaperDiaper&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
