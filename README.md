@@ -14,11 +14,6 @@ Feel free to check my projects by clicking the links.
 ![](https://streak-stats.demolab.com/?user=DiaperDiaper&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=DiaperDiaper&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=DiaperDiaper&theme=default&no-frame=false&no-bg=false&margin-w=4)
-
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DiaperDiaper/DiaperDiaper/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DiaperDiaper/DiaperDiaper/output/github-contribution-grid-snake.svg" />
